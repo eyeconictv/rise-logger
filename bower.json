@@ -1,6 +1,6 @@
 {
   "name": "rise-logger",
-  "version": "1.0.10",
+  "version": "1.0.13",
   "authors": [
     "Rise Vision"
   ],
@@ -14,7 +14,7 @@
     "big query"
   ],
   "license": "GPLv3",
-  "homepage": "https://github.com/Rise-Vision/rise-logger",
+  "homepage": "https://github.com/eyeconictv/rise-logger",
   "ignore": [
     "**/.*",
     "node_modules",
